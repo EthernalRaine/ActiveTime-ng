@@ -22,7 +22,10 @@ namespace ActiveTime.Backend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddCors();
-            services.AddDbContext<ActiveContext>(opt => opt.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ActiveContext>(opt =>
+            {
+                opt.UseMySql(Configuration.GetConnectionString("DefaultConnection"));
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddSwaggerGen(c =>
             {

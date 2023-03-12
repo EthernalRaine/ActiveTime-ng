@@ -4,11 +4,11 @@
     <head>
     	<meta charset="utf-8">
         <link rel="stylesheet" href="assets/css/pure-min.css" type="text/css">
-        <script src="assets/js/jquery-3.6.4.min.js" type="text/javascript" crossorigin="anonymous"></script>
+    	<script src="assets/js/jquery-3.6.4.min.js" type="text/javascript"></script>
     	<title>ClassicTime</title>
     </head>
 	
     <body>
-    	<% call innerPage %>
+    	<% call innerPage %>	
     </body>
 </html>

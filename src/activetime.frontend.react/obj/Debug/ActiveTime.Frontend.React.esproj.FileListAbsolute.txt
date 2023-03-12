@@ -1,2 +1,4 @@
 C:\Users\stuxnet\Desktop\ActiveTime-ng\src\ActiveTime.Frontend.React\obj\Debug\ActiveTime.Frontend.React.esproj.SuggestedBindingRedirects.cache
 C:\Users\stuxnet\Desktop\ActiveTime-ng\src\ActiveTime.Frontend.React\obj\Debug\ActiveTime.Frontend.React.esproj.CoreCompileInputs.cache
+C:\ActiveTime-ng\src\ActiveTime.Frontend.React\obj\Debug\ActiveTime.Frontend.React.esproj.SuggestedBindingRedirects.cache
+C:\ActiveTime-ng\src\ActiveTime.Frontend.React\obj\Debug\ActiveTime.Frontend.React.esproj.CoreCompileInputs.cache
